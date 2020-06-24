@@ -1,2 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 gemspec
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
