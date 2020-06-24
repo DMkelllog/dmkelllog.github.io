@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ÄÌ·Î±× µö·¯´×"
+title                    : "ì¼ˆë¡œê·¸ì˜ ë”¥ëŸ¬ë‹"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ÄÌ·Î±×"
-description              : "µö·¯´× ½ºÅÍµğ ´ëÇĞ¿ø»ı ºí·Î±×"
+subtitle                 : #""
+name                     : "ì¼ˆë¡œê·¸"
+description              : "ë”¥ëŸ¬ë‹ ìŠ¤í„°ë”” ë¸”ë¡œê·¸"
 url                      : "https://dmkelllog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "dmkelllog/wafermap"
+repository               : #"dmkelllog/wafermap"
 teaser                   : "/assets/images/kelllog.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "ì¼ˆë¡œê·¸"
+  avatar           : "/assets/images/kelllog.png"
+  bio              : "ë”¥ëŸ¬ë‹ ê³µë¶€í•˜ëŠ” ëŒ€í•™ì›ìƒ"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:via_monoh@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
