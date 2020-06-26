@@ -25,7 +25,7 @@ url                      : "https://dmkelllog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"dmkelllog/wafermap"
 teaser                   : "/assets/images/kelllog.png"
-logo                     : "/assets/images/kelllog.png"
+logo                     : "/assets/images/k.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "켈로그"
   avatar           : "/assets/images/kelllog.png"
-  bio              : "딥러닝 공부하는 대학원생"
+  bio              : "좋은 것만 드려요"
   location         : "South Korea"
   email            :
   links:
