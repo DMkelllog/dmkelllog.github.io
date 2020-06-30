@@ -1,21 +1,20 @@
----
-
-title:  "[6월] 이달의 딥러닝"
-
-excerpt: "딥러닝 컴퓨터 비전"
-
-
-categories:
-
-  - MonthlyDL
-
-tags:
-
-  - DeepLearning
-
-
----
-
-
-
-6월의 딥러닝 책을 정했다.
+---
+
+
+
+title:  "[이달의 딥러닝] 7월"
+
+excerpt: "딥러닝 컴퓨터 비전 with 텐서플로 2"
+
+categories:
+
+  - MonthlyDL
+
+tags:
+
+  - DeepLearning
+
+---
+
+7월의 딥러닝 책
+### 실전! xpstjvmffh
