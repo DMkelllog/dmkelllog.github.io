@@ -23,9 +23,8 @@ tags:
 ##### 목표: 
  * 연구 시간을 기록하여 연구 의욕을 고취하며 통계적인 인사이트를 얻는다.
  * 아두이노를 이용한 간단한 IoT 시스템을 구축한다.
-![컨셉](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/July%20plan%202.png?raw=true)
+![컨셉](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/July%20plan%201.png?raw=true)
 
-![zjssdf](https://raw.githubusercontent.com/DMkelllog/dmkelllog.github.io/master/assets/images/July%20plan%202.png)
 
 ##### 세부 사항:
  * 구성: 아두이노 센서, 보드, 제어 프로그램, 시각화 프로그램  
@@ -38,7 +37,7 @@ tags:
    6. 통계 분석 및 시각화 프로그램 구축  
    
 * 구상도
- ![구상도](/assets/images/july plan 2.png)  
+![구상도](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/July%20plan%202.png?raw=true)
 * 예상 어려움  
   * 컴퓨터의 전원을 껐을 때 측정 지속 여부
   * 부재중일 때, 주변의 다른 사람/물체가 오측정됨
