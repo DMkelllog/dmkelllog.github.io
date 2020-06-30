@@ -1,5 +1,5 @@
 ---
-title:  "[토이 프로젝트] 6월 계획"
+title:  "[토이 프로젝트] 6월 프로젝트 계획"
 excerpt: "Git Blog 만들기"
 
 categories:
