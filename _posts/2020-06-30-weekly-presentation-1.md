@@ -1,5 +1,5 @@
 ---
-title:  "[이주의 발표] 레이블링 조금 잘못돼도 괜찮아요"
+title:  "[이주의 발표] 7월-1 레이블링 조금 잘못돼도 괜찮아요"
 excerpt: "Clova가 레이블 노이즈 잡는 법"
 
 categories:
@@ -16,18 +16,18 @@ tags:
 
 ####  Clova가 레이블 노이즈 잡는 법  
 
-데이터에는 노이즈가 있는 레이블이 존재한다.
+데이터에는 노이즈가 있는 레이블이 존재한다.  
 이는 모델의 Feature Extraction을 어렵게 한다.
 
 ##### 접근법
 
-1. 모델 구조
-   복잡한 패턴을 인식할 수 있는 모델을 만든다.
+1. 모델 구조  
+   복잡한 패턴을 인식할 수 있는 모델을 만든다.  
    but 너무 무거움
-2. 훈련 방법
-   커리큘럼 학습(mentorNet)
+2. 훈련 방법  
+   커리큘럼 학습(mentorNet)  
    but 훈련 계산량 증가 + 추가데이터 필요
-3. 데이터 정제
+3. 데이터 정제  
    수동/Active learning
 
 사람의 도움없이 레이블 데이터 제거
@@ -44,11 +44,13 @@ tags:
 
 ![naver1.PNG](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/naver1.PNG?raw=true)
 
-* Checker의 확률 결과를 활용하기 위해 
+* Checker의 확률 결과를 활용하기 위해  
   PICO (Probabilistic Iterative Correction) 핵심
   * Checker 결과 베이지안 확률 결합
   * Iterative probailistic correction
   * 레이블링 히스토리를 HMM로 반영
+
+![naver2.PNG](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/naver2.PNG?raw=true)
 
 1. Checker 결과를 확률적 Vote
 2. 레이블링 사전 히스토리 업데이트
@@ -61,8 +63,8 @@ tags:
 
 ##### 결과
 
-데이터셋 - Line Japan FAQ/Chat
-모델 - BERT Japan
+데이터셋 - Line Japan FAQ/Chat  
+모델 - BERT Japan  
 baseline 대비 3%, rule-based 대비 2% gain
 
 이슈
