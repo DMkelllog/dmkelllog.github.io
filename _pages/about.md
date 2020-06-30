@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-* Research interests:  
+* **Research interests**:  
   \# Image processing  
   \# deep learning  
   \# Manufacturing Processes
