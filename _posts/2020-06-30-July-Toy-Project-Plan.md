@@ -23,7 +23,9 @@ tags:
 ##### 목표: 
  * 연구 시간을 기록하여 연구 의욕을 고취하며 통계적인 인사이트를 얻는다.
  * 아두이노를 이용한 간단한 IoT 시스템을 구축한다.
-![컨셉](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/July%20plan%202.png)  
+![컨셉](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/July%20plan%202.png?raw=true)
+
+![zjssdf](https://raw.githubusercontent.com/DMkelllog/dmkelllog.github.io/master/assets/images/July%20plan%202.png)
 
 ##### 세부 사항:
  * 구성: 아두이노 센서, 보드, 제어 프로그램, 시각화 프로그램  
