@@ -41,6 +41,9 @@ tags:
 * **Multi Split** - Train - Check - **Vote**
   * multiple branch
   * Voting 전략
+
+![naver1.PNG](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/naver1.PNG?raw=true)
+
 * Checker의 확률 결과를 활용하기 위해 
   PICO (Probabilistic Iterative Correction) 핵심
   * Checker 결과 베이지안 확률 결합
