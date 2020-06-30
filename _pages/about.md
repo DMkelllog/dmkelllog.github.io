@@ -7,7 +7,8 @@ layout: single
 * **Research interests**:  
   \# Image processing  
   \# deep learning  
-  \# Manufacturing Processes
+  \# Manufacturing Processes  
+  
 ## Education
 
 * Received the B.S. degrees, in System Management Engineering from Sungkyunkwan University, Suwon, Korea, in 2020.
