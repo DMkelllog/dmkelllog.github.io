@@ -8,12 +8,12 @@ excerpt: "딥러닝 컴퓨터 비전 with 텐서플로 2"
 
 categories:
 
-  - MonthlyDL
+  - Deep Learning Books
 
 tags:
 
   - DeepLearning
-
+  - Monthly
 ---
 
 7월의 딥러닝 책
