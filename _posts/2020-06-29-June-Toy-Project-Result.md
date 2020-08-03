@@ -1,6 +1,6 @@
 ---
-title:  "[토이 프로젝트] 6월 프로젝트 결과"
-excerpt: "Git Blog 만들기 결과"
+title:  "6월 이달의 프로젝트"
+excerpt: "Git Blog 만들기"
 
 categories:
   - ToyProject

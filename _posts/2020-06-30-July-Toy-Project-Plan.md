@@ -1,5 +1,5 @@
 ---
-title:  "[토이 프로젝트] 7월 프로젝트 계획서"
+title:  "7월 이달의 프로젝트"
 excerpt: "연구실 책상 Time Checker 만들기 with 아두이노"
 
 categories:
