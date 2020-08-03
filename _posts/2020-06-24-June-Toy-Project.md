@@ -1,5 +1,5 @@
 ---
-title:  "6월 프로젝트"
+title:  "6월 이달의 프로젝트"
 excerpt: "Git Blog 만들기"
 
 categories:
