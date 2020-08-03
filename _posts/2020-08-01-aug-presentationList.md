@@ -6,9 +6,11 @@ categories:
   - Presentations
 tags:
   - Weekly
-  - PT
+  - Presentations
 
 ---
+
+### 8월 발표 영상 리스트
 
 ###     1주 8/3-8/9
 
@@ -40,6 +42,10 @@ tags:
     <https://tv.naver.com/v/11277067>
 14. **(Deview)** 쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)
     <https://tv.naver.com/v/11212875>
+
+3줄 요약
+
+1줄 평
 
 ### 2주 8/10-8/16
 

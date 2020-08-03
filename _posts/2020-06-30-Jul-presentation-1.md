@@ -6,13 +6,11 @@ categories:
   - Presentations
 tags:
   - Weekly
-  - NaverD2
-  - PT
+  - Naver
+  - Presentations
 ---
 
-  
-
-##  [Naver D2] 레이블링 조금 잘못돼도 괜찮아요
+###  [Naver D2] 레이블링 조금 잘못돼도 괜찮아요
 
 ####  Clova가 레이블 노이즈 잡는 법  
 

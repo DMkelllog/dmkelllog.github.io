@@ -10,6 +10,8 @@ tags:
 
 ---
 
+### 8월 논문 리스트
+
 ### 1주 8/3-8/9
 
 1. [2017] What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision

@@ -6,7 +6,7 @@ categories:
   - Presentations
 tags:
   - Weekly
-  - PT
+  - Presentations
 ---
 
 ###   이주의 발표
