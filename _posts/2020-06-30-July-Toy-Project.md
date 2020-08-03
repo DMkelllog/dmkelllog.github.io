@@ -46,7 +46,11 @@ tags:
 
 <회로도>
 
+![아두이노 회로도1.PNG](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%ED%9A%8C%EB%A1%9C%EB%8F%841.PNG?raw=true)
+
 <실제 제작 사진>
+
+
 
 <코드 - 아두이노>
 
@@ -88,13 +92,10 @@ void loop()
       stay = 0;}
     
     if (distance2 > 500){
-      stay = 0;
-    }}
+      stay = 0;}}
   else if (distance>19 && distance < 27){//chair detected
-    stay = 0;
-    }
-  else {
-    stay = 1;}
+    stay = 0;}
+  else {stay = 1;}
   arr[idx] = stay;
 
   if (idx == 5){
@@ -102,9 +103,7 @@ void loop()
       count += arr[idx];}
     if (count>2){     // threshold:2 if larger, record=1
       output = 1;}
-    else{
-      output = 0;
-    }
+    else{output = 0;}
     Serial.println(output);
     idx = 0;
     count = 0;
@@ -113,10 +112,8 @@ void loop()
     if (save_idx == 4){  //save csv file every 4 minutes
       //Serial.println("SAVEWORKBOOK");
       save_idx = 0;}
-    else{
-      save_idx ++; }}
-  else{
-    idx++;}
+    else{save_idx ++; }}
+  else{idx++;}
   delay(9964.5);} // to calibrate 10 seconds
 
 ```
