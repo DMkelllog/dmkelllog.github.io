@@ -30,12 +30,16 @@ tags:
    [(https://icml.cc/virtual/2020/poster/6552)
 9. (Deview) 감정연기와 외국어가 가능한 인공지능 성우
    https://tv.naver.com/v/11212597
-10. (Deview) [문자인식(OCR), 얼마나 정확하지? (문자인식 성능을 정확하게 측정하는 방법)]
+10. (Deview) 문자인식(OCR), 얼마나 정확하지? (문자인식 성능을 정확하게 측정하는 방법)
     https://tv.naver.com/v/11210453
-11. (Deview) 자율주행 시뮬레이터를 개발하면서 경험한 한계점 및 활용 방안]
+11. (Deview) 자율주행 시뮬레이터를 개발하면서 경험한 한계점 및 활용 방안
     https://tv.naver.com/v/11210469
-12. [AI Designer : 스스로 디자인하는 AI]
+12. (Deview) AI Designer : 스스로 디자인하는 AI
     https://tv.naver.com/v/11207478
+13. (Deview) 2019년 FE 프레임워크를 배우는 기분(FE 인싸들이라면 알고 있어야 하는 프레임워크 기술들)
+    https://tv.naver.com/v/11277067
+14. (Deview) 쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)
+    https://tv.naver.com/v/11212875
 
 ### 2주 8/10-8/16
 
