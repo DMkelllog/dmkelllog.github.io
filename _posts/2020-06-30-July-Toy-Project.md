@@ -44,15 +44,13 @@ tags:
 
 ##### 결과
 
-<회로도>
+* 회로도  
 
-![아두이노 회로도1.PNG](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%ED%9A%8C%EB%A1%9C%EB%8F%841.PNG?raw=true)
-
-<실제 제작 사진>
+![arduino circuit](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%ED%9A%8C%EB%A1%9C%EB%8F%841.PNG?raw=true)    
 
 
 
-<코드 - 아두이노>  
+  <코드 - 아두이노>  
 
 ```c
 int distance;
