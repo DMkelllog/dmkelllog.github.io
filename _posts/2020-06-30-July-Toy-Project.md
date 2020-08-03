@@ -52,7 +52,7 @@ tags:
 
 
 
-<코드 - 아두이노>
+<코드 - 아두이노>  
 
 ```c
 int distance;
@@ -120,14 +120,13 @@ void loop()
 
 
 
-<코드 - 파이썬>
+<코드 - 파이썬>  
 
 ```python
 import serial
 import datetime
 import csv
 import matplotlib.pyplot as plt
-
 s = serial.Serial('COM4', baudrate = 9600)
 
 def log_record(sit):
