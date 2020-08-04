@@ -51,6 +51,10 @@ tags:
 
 ![arduino circuit](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%ED%9A%8C%EB%A1%9C%EB%8F%841.PNG?raw=true)    
 
+* 설치
+
+![그림1.png](https://github.com/DMkelllog/dmkelllog.github.io/blob/master/assets/images/%EA%B7%B8%EB%A6%BC1.png?raw=true)
+
 시뮬레이터 덕분에 아두이노 구성에는 큰 어려움이 없었다.
 아두이노 프로그래밍도 학부 때 배운 걸음마 수준의 C언어로 충분했다.
 문제는 2가지였다.
