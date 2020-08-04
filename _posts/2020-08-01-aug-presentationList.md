@@ -17,11 +17,11 @@ tags:
 1. **(ICML)** [Learning Factorized Weight Matrix for Joint Image Filtering]
    <https://icml.cc/virtual/2020/poster/5833>
    * 3줄 요약
-     Joint Image Filtering - input 이미지와 guidance 이미지로 분할, 개선 등등 성능 향상
-     y = W(x,g) 1. 가중치 행렬 W를 학습, 2. 특성 상관관계, 3. sparse set of pixel residual 학습
-     가중치 행렬의 초고차원 문제 -> 특성 상관관계(like robust PCA), sparse residual로 상관관계 행렬 개선
+     Joint Image Filtering - input 이미지와 guidance 이미지로 분할, 개선 등등 성능 향상  
+     y = W(x,g) 1. 가중치 행렬 W를 학습, 2. 특성 상관관계, 3. sparse set of pixel residual 학습  
+     가중치 행렬의 초고차원 문제 -> 특성 상관관계(like robust PCA), sparse residual로 상관관계 행렬 개선  
    * 1줄 평
-     수식을 하나씩 곱씹어보는 연습 필요
+     수식을 하나씩 곱씹어보는 연습 필요  
 2. **(ICML)** [ControlVAE: Controllable Variational Autoencoder]
    <https://icml.cc/virtual/2020/poster/6510>
 3. **(ICML)** [Robust Outlier Arm Identification]
